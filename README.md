@@ -1,5 +1,3 @@
-# Cloud_Security_Portfolio
-Hands-on AWS, Azure, and GCP cloud security labs focused on IAM, defense, and governance.
 # ☁️ Cloud Security Portfolio
 
 A hands-on cloud security learning portfolio documenting my journey across AWS, Microsoft Azure, and Google Cloud Platform (GCP).
