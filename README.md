@@ -167,11 +167,6 @@ Current Areas of Study:
 - AI Security
 
 ---
-
-# 🤝 Connect With Me
-
-### Maryjudith Chidinma Ogunaka
-
 > "Security is not a product, but a process." – Bruce Schneier
 
 This repository is continuously updated as I complete new cloud security labs and projects.
